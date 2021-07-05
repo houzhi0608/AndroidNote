@@ -122,7 +122,7 @@ android
     MVVM/MVI
     DI:Hilt、Dagger2
 
-    性能优化：内存、启动、卡顿、IO、电量、包体、ANR、Crash方案、屏幕适配
+    性能优化：包体、内存、启动、卡顿、IO、电量、ANR、Crash方案、屏幕适配
     APM平台
 
     开源库：okhttp、retrofit、rxjava、eventbus、glide
